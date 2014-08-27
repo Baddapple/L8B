@@ -5,16 +5,16 @@
         <row id="1" name="LanderDead"/>
         <row id="2" name="Crash"/>
         <row id="3" name="TouchDown"/>
-        <row id="4" name=""/>
-        <row id="5" name=""/>
+        <row id="4" name="Altitude"/>
+        <row id="5" name="Thrust"/>
         <row id="6" name=""/>
         <row id="7" name=""/>
         <row id="8" name=""/>
         <row id="9" name=""/>
     </rows>
     <columns>
-        <column id="0" name="" type="4" readonly="0">True,False,True,True,False,False,False,False,False,False</column>
-        <column id="1" name="" type="0" readonly="0">,,,,,,,,,</column>
+        <column id="0" name="" type="4" readonly="0">False,False,False,False,False,False,False,False,False,False</column>
+        <column id="1" name="" type="2" readonly="0">0,0,0,0,250,0,0,0,0,0</column>
         <column id="2" name="" type="0" readonly="0">,,,,,,,,,</column>
         <column id="3" name="" type="0" readonly="0">,,,,,,,,,</column>
         <column id="4" name="" type="0" readonly="0">,,,,,,,,,</column>
