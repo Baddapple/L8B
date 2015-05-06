@@ -7,6 +7,6 @@
         <column id="0" name="Height" type="3" readonly="0">500.000000</column>
         <column id="1" name="Max Height" type="3" readonly="1">3000.000000</column>
         <column id="2" name="Ship Gravity" type="3" readonly="1">300.000000</column>
-        <column id="3" name="Increase Gravity" type="3" readonly="0">50.000000</column>
+        <column id="3" name="Increase Gravity" type="3" readonly="0">75.000000</column>
     </columns>
 </table>
