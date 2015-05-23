@@ -13,7 +13,7 @@
         <row id="9" name="High Score"/>
     </rows>
     <columns>
-        <column id="0" name="Landing Message" type="1" readonly="0">Perfect!,Nice,Safe,OK,Rough,Crash,Crater,,,</column>
+        <column id="0" name="Landing Message" type="1" readonly="0">Perfect!,Nice,Safe,OK,Rough,Crash,Test Working,,,</column>
         <column id="1" name="Alt" type="3" readonly="0">425.000000,625.000000,825.000000,1025.000000,1225.000000,1425.000000,1625.000000,1825.000000,0.000000,0.000000</column>
         <column id="2" name="Min Speed" type="3" readonly="0">0.000000,11.000000,51.000000,101.000000,251.000000,301.000000,401.000000,0.000000,0.000000,0.000000</column>
         <column id="3" name="Max Speed" type="3" readonly="0">10.000000,50.000000,100.000000,250.000000,300.000000,400.000000,0.000000,0.000000,0.000000,0.000000</column>
