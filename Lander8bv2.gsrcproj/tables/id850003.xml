@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="ShipStore" numRows="49" numCols="6" flags="9" tableType="0">
+<table version="1.000000" name="ShipStore" numRows="49" numCols="8" flags="9" tableType="0">
     <rows>
         <row id="0" name=""/>
         <row id="1" name=""/>
@@ -52,11 +52,13 @@
         <row id="48" name=""/>
     </rows>
     <columns>
-        <column id="0" name="Ship Name" type="1" readonly="1">Brometheus,Lander8b,Rocinante,Star-Lander,Red Barchetta,Little Ranger,Dragon Claw,9 3/4,Tiny Titian,Rock,Jameson,The Irish,Argonaut,Stealth,Ark,Basroil,Basestars,Bellerophon,C57 -B,Conquistador,The Derelict,Endurance,Hyperion,Excalibur,Liberator,Liberator,Shangri-La ,Valkyrie ,Yamato,Orion,Bolide,Artemis,Icarus,Walee,Baikonur,Lowell Lander,Panama,Phobos,Spack Shack,Nova,Bova,Prometheus,Cutterr,Ragnarok,IceBreaker,Snowball,Assegai,Ahab,Aurora</column>
-        <column id="1" name="Ship Image" type="1" readonly="1">000,001,002,003,004,005,006,007,008,009,010,011,012,014,015,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013</column>
-        <column id="2" name="Ship Price" type="3" readonly="1">0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000</column>
+        <column id="0" name="Ship Name" type="1" readonly="1">Lander8b,Brometheus,Rocinante,Star-Lander,Red Barchetta,Little Ranger,Dragon Claw,9 3/4,Tiny Titian,Rock,Jameson,The Irish,Argonaut,Stealth,Ark,Basroil,Basestars,Bellerophon,C57 -B,Conquistador,The Derelict,Endurance,Hyperion,Excalibur,Liberator,Liberator,Shangri-La ,Valkyrie ,Yamato,Orion,Bolide,Artemis,Icarus,Walee,Baikonur,Lowell Lander,Panama,Phobos,Spack Shack,Nova,Bova,Prometheus,Cutterr,Ragnarok,IceBreaker,Snowball,Assegai,Ahab,Aurora</column>
+        <column id="1" name="Ship Image" type="1" readonly="1">001,001,002,003,004,005,006,007,008,009,010,011,012,014,015,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013,013</column>
+        <column id="2" name="Ship Price" type="1" readonly="8">,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99</column>
         <column id="3" name="Pilot Name" type="1" readonly="1">Bye-Tor,BaDD,Aasha,Luke,Rasha,Trasha,Casha,Veronkia,MarLee,Atomsk,Hulls,Rydall,Daak,Sissy,Booba,Black Barney,Bonne,Boskone,Brak,Harlock,Hawker,Cobra,Dagg,Dark Eldar,Divatox,Starbux,Hammerhand,Jackal,Rockhal,Kagato,Gokaigers,Talon,Krys,Mal,Mito,Black Opal,Phantom,Queen Emeraldas,Red PerL,Ridley,Ryoko Balta,Saffron,Spike,The Star,Shriker,Star Seekers,Terrik,Tex ,Yondu</column>
         <column id="4" name="Pilot Price" type="3" readonly="0">0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000,0.990000</column>
-        <column id="5" name="Pilot Image" type="1" readonly="0">000,001,002,003,004,005,006,007,008,009,010,011,012,014,000,000,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
+        <column id="5" name="Pilot Image" type="1" readonly="0">000,001,002,003,004,005,006,007,008,009,010,011,012,014,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000</column>
+        <column id="6" name="Store Unlock" type="4" readonly="112">1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
+        <column id="7" name="Owned" type="4" readonly="56">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
     </columns>
 </table>
