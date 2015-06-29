@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Saves" numRows="1" numCols="4" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+    </rows>
+    <columns>
+        <column id="0" name="Month" type="2" readonly="7">6</column>
+        <column id="1" name="Day" type="2" readonly="80">1</column>
+        <column id="2" name="Year" type="2" readonly="48">2015</column>
+        <column id="3" name="Daily logins" type="2" readonly="200">0</column>
+    </columns>
+</table>
