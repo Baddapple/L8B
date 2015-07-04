@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="Saves" numRows="6" numCols="4" flags="9" tableType="0">
+<table version="1.000000" name="Saves" numRows="7" numCols="4" flags="9" tableType="0">
     <rows>
         <row id="0" name=""/>
         <row id="1" name="High Score"/>
@@ -7,11 +7,12 @@
         <row id="3" name="Total Drops"/>
         <row id="4" name="Player Level"/>
         <row id="5" name="Successful Landings"/>
+        <row id="6" name="Ship#"/>
     </rows>
     <columns>
-        <column id="0" name="Month" type="2" readonly="1">6,0,0,0,0,0</column>
-        <column id="1" name="Day" type="2" readonly="1">27,0,0,0,0,0</column>
-        <column id="2" name="Year" type="2" readonly="1">1,0,0,0,0,0</column>
-        <column id="3" name="Daily logins" type="2" readonly="1">1,0,0,0,0,0</column>
+        <column id="0" name="Month" type="2" readonly="1">6,0,0,0,0,0,1</column>
+        <column id="1" name="Day" type="2" readonly="1">27,0,0,0,0,0,0</column>
+        <column id="2" name="Year" type="2" readonly="1">1,0,0,0,0,0,0</column>
+        <column id="3" name="Daily logins" type="2" readonly="1">1,0,0,0,0,0,0</column>
     </columns>
 </table>
