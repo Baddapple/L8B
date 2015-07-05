@@ -61,9 +61,9 @@
         <column id="6" name="Store Unlock" type="4" readonly="1">1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
         <column id="7" name="Owned" type="4" readonly="1">1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
         <column id="8" name="Locked Ship" type="1" readonly="1">013,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
-        <column id="9" name="Level 1" type="1" readonly="1">Rookie,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
-        <column id="10" name="Level 2" type="1" readonly="1">Commander,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
-        <column id="11" name="Level 3" type="1" readonly="0">Space Ace,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
+        <column id="9" name="Level 1" type="1" readonly="1">Rookie,50,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
+        <column id="10" name="Level 2" type="1" readonly="1">Commander,75,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
+        <column id="11" name="Level 3" type="1" readonly="0">Space Ace,100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
         <column id="12" name="Ship Drops" type="2" readonly="1">0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
     </columns>
 </table>
