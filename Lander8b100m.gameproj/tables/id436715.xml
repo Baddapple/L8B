@@ -9,7 +9,7 @@
         <row id="5" name="Successful Landings"/>
         <row id="6" name="Ship#"/>
         <row id="7" name="Level"/>
-        <row id="8" name=""/>
+        <row id="8" name="CrashTotals"/>
     </rows>
     <columns>
         <column id="0" name="Month" type="2" readonly="1">7,0,0,0,0,0,1,0,0</column>
