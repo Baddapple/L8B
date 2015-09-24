@@ -1,62 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<table version="1.000000" name="PurchaseTable" numRows="50" numCols="5" flags="26" tableType="3">
+<table version="1.000000" name="PurchaseTable" numRows="2" numCols="5" flags="26" tableType="3">
     <rows>
         <row id="0" name=""/>
         <row id="1" name=""/>
-        <row id="2" name=""/>
-        <row id="3" name=""/>
-        <row id="4" name=""/>
-        <row id="5" name=""/>
-        <row id="6" name=""/>
-        <row id="7" name=""/>
-        <row id="8" name=""/>
-        <row id="9" name=""/>
-        <row id="10" name=""/>
-        <row id="11" name=""/>
-        <row id="12" name=""/>
-        <row id="13" name=""/>
-        <row id="14" name=""/>
-        <row id="15" name=""/>
-        <row id="16" name=""/>
-        <row id="17" name=""/>
-        <row id="18" name=""/>
-        <row id="19" name=""/>
-        <row id="20" name=""/>
-        <row id="21" name=""/>
-        <row id="22" name=""/>
-        <row id="23" name=""/>
-        <row id="24" name=""/>
-        <row id="25" name=""/>
-        <row id="26" name=""/>
-        <row id="27" name=""/>
-        <row id="28" name=""/>
-        <row id="29" name=""/>
-        <row id="30" name=""/>
-        <row id="31" name=""/>
-        <row id="32" name=""/>
-        <row id="33" name=""/>
-        <row id="34" name=""/>
-        <row id="35" name=""/>
-        <row id="36" name=""/>
-        <row id="37" name=""/>
-        <row id="38" name=""/>
-        <row id="39" name=""/>
-        <row id="40" name=""/>
-        <row id="41" name=""/>
-        <row id="42" name=""/>
-        <row id="43" name=""/>
-        <row id="44" name=""/>
-        <row id="45" name=""/>
-        <row id="46" name=""/>
-        <row id="47" name=""/>
-        <row id="48" name=""/>
-        <row id="49" name=""/>
     </rows>
     <columns>
-        <column id="0" name="Id" type="1" readonly="1">ncship002,ncship003,ncship004,ncship005,ncship006,ncship007,ncship008,ncShip009,ncShip010,ncShip011,ncShip012,ncShip013,ncShip014,ncShip015,ncShip016,ncShip017,ncShip018,ncShip019,ncShip020,ncShip021,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
-        <column id="1" name="Consumable" type="4" readonly="1">1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</column>
-        <column id="2" name="Name" type="1" readonly="1">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
-        <column id="3" name="Price" type="1" readonly="1">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
-        <column id="4" name="State" type="1" readonly="1">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</column>
+        <column id="0" name="Id" type="1" readonly="1">credit_doubler,fuel_Card</column>
+        <column id="1" name="Consumable" type="4" readonly="1">0,0</column>
+        <column id="2" name="Name" type="1" readonly="1">,</column>
+        <column id="3" name="Price" type="1" readonly="1">,</column>
+        <column id="4" name="State" type="1" readonly="1">,</column>
     </columns>
 </table>
