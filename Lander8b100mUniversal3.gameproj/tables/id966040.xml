@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table version="1.000000" name="Ship Settings" numRows="4" numCols="10" flags="9" tableType="0">
+    <rows>
+        <row id="0" name=""/>
+        <row id="1" name="Mine"/>
+        <row id="2" name="Fuel"/>
+        <row id="3" name="Credits"/>
+    </rows>
+    <columns>
+        <column id="0" name="Height" type="3" readonly="0">500.000000,2000.000000,1700.000000,1500.000000</column>
+        <column id="1" name="Max Height" type="3" readonly="1">3000.000000,2100.000000,1800.000000,1600.000000</column>
+        <column id="2" name="Ship Gravity" type="3" readonly="1">350.000000,2200.000000,1900.000000,1700.000000</column>
+        <column id="3" name="Increase Gravity" type="3" readonly="0">75.000000,2300.000000,2000.000000,1800.000000</column>
+        <column id="4" name="" type="1" readonly="0">,2400,2100,1900</column>
+        <column id="5" name="" type="1" readonly="1">,2500,2200,2000</column>
+        <column id="6" name="" type="1" readonly="1">,2600,2300,2100</column>
+        <column id="7" name="" type="1" readonly="1">,2700,2400,2200</column>
+        <column id="8" name="" type="1" readonly="0">,2800,2500,2300</column>
+        <column id="9" name="" type="1" readonly="1">,2900,2600,2400</column>
+    </columns>
+</table>
