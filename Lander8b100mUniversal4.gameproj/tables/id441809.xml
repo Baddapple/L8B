@@ -22,12 +22,12 @@
     <columns>
         <column id="0" name="Chatter" type="1" readonly="0">Roger that,Confirmed,All Green,No Errors,Rebooting,What?,No?,extra fries,Repeat?,Say Again?,Permits?,Still booting,We&apos;re hot,Papers?,Fuel\, Green,Houston?, ..He di&apos;int?</column>
         <column id="1" name="Dropping" type="1" readonly="0">Hang on,Weeeeeee,Woah,On Target,Turbulance,Hold on,Vibrations,Rock&quot;nRoll,Vida Loca&apos;!,Daddy!,Mommy!,3\,2\,1..,Almost...,Shake it,Oh No!,Houston?,Pookie!</column>
-        <column id="2" name="ok" type="1" readonly="1">Touchdown,and Down,Confirmed,No Sweat,Landed,,,,,,,,,,,,</column>
+        <column id="2" name="ok" type="1" readonly="1">OK,OK,OK,OK,OK,,,,,,,,,,,,</column>
         <column id="3" name="Crash" type="1" readonly="1">Oh No,I&apos;m Good,Little Help,Nailed it?,Not Again,Again?,Bang!,Gotta go,Don&apos;t Hate,Aye\, Papi,One More,Next Time,Bango!,En fuego,about face..,Yahtzee!,NEWBIE!</column>
         <column id="4" name="Tutorial" type="1" readonly="1">The Landing \nComputer is out. ,Tap the screen to \nengage the engine,Nice Work!,Every time the engine\nengages it uses a little\nfuel. Try it. ,Let me land the \nfirst one for you,The softer you land\nthe more credits you \nearn,Ready to try\nyourself?,,,,,,,,,,</column>
-        <column id="5" name="Perfect" type="1" readonly="1">Nailed it,Money!,Boo-yah!,No Diggity,Bingo!,,,,,,,,,,,,</column>
-        <column id="6" name="Smooth" type="1" readonly="0">Butta!,No problem,Smooth,Player!,Benjamins!,,,,,,,,,,,,</column>
-        <column id="7" name="Nice" type="1" readonly="0">Down,Contact,Next Time,En fuego,Oh No,,,,,,,,,,,,</column>
-        <column id="8" name="Rough" type="1" readonly="0">Ouch,Didn&apos;t Crash,NEWBIE!,Nailed it?,Don&apos;t Hate,,,,,,,,,,,,</column>
+        <column id="5" name="Perfect" type="1" readonly="1">Perfect,Perfect,Perfect,Perfect,Perfect,,,,,,,,,,,,</column>
+        <column id="6" name="Smooth" type="1" readonly="0">Smooth,Smooth,Smooth,Smooth,Smooth,,,,,,,,,,,,</column>
+        <column id="7" name="Nice" type="1" readonly="0">Nice,Nice,Nice,Nice,Nice,,,,,,,,,,,,</column>
+        <column id="8" name="Rough" type="1" readonly="0">Rough,Rough,Rough,Rough,Rough,,,,,,,,,,,,</column>
     </columns>
 </table>
